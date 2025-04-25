@@ -21,4 +21,4 @@ jobs:
       username: "${{ github.repository_owner }}"
       repository: "${{ github.repository }}"
       platforms: linux/amd64
-      target: apache-runtime
+      target: nginx-runtime
